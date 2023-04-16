@@ -18,7 +18,6 @@ struct SomeSoftware {
     version_number: i32,
 }
 
-
 struct OtherSoftware {
     version_number: String,
 }
